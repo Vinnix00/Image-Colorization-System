@@ -41,4 +41,4 @@ Converting the colorised image from the lab colour space to RGB. Then clipping a
 <img src="assets/manga.png" width="50%">
 
 <br><br>
-##### Next: [Project Closing] (E-Project_Closing.md)
+##### Next: [Project Closing](E-Project_Closing.md)
