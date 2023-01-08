@@ -3,10 +3,10 @@
 <br>
 
 #### 1. Customer Acceptance Form
-<img src="assets/completion_form.jpg" width="100%">
+<img src="assets/closing/completion_form.jpg" width="100%">
 
 #### 2. Lessons Learned Document
-<img src="assets/lesson_learnt.jpg" width="100%">
+<img src="assets/closing/lesson_learnt.jpg" width="100%">
 
 #### 3. Final Project Report
 
@@ -30,7 +30,7 @@ The project scope was initiated from the beginning of the project. For instance,
 
 **4.2 OBJECTIVES**
 
-Group G managed to achieve the objectives initialized since the beginning of the project. A system that is AI powered, which uses deep learning technique has been made. Deep learning is used in this project to colorize grayscale image.
+Group G Sdn Bhd managed to achieve the objectives initialized since the beginning of the project. A system that is AI powered, which uses deep learning technique has been made. Deep learning is used in this project to colorize grayscale image.
 
 **4.3 IMPACTS**
 
@@ -38,15 +38,15 @@ By creating this system, the actual scene of the grayscale image can be visualiz
 
 **5.0 TRANSITION PLAN**
 
-Group G staff will provide support when require. The main work of support provided by Group G's staff on the image colorization system project are as below:
+Group G Sdn Bhd staff will provide support when require. The main work of support provided by Group G Sdn Bhd's staff on the image colorization system project are as below:
 
 a. Maintain and make sure the system well-funtioning
 
 b. Handling errors and updates of the system
 
-c. Provide user guidelines for ? to use the system.
+c. Provide user guidelines for Beautiful Art Sdn Bhd to use the system.
 
 d. Report information to senior management on monthly basis
 
 #### 4. Close Contract
-<img src="assets/close_contract.jpg" width="100%">
+<img src="assets/closingclose_contract.jpg" width="100%">
