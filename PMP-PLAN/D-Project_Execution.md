@@ -36,7 +36,9 @@ Converting the colorised image from the lab colour space to RGB. Then clipping a
 <img src="assets/coding8.jpg" width="100%">
 
 ## Project Result
-<img src="assets/result1.jpg" width="100%">
+<img src="assets/girl.png" width="50%">
+<img src="assets/lion.png" width="50%">
+<img src="assets/manga.png" width="50%">
 
 <br><br><br>
 ##### Next: [Project Closing] (Project_Closing.md)
