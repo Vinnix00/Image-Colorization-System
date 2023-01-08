@@ -49,4 +49,4 @@ c. Provide user guidelines for Beautiful Art Sdn Bhd to use the system.
 d. Report information to senior management on monthly basis
 
 #### 4. Close Contract
-<img src="assets/closingclose_contract.jpg" width="100%">
+<img src="assets/closing/close_contract.jpg" width="100%">
