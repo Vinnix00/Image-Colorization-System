@@ -1,5 +1,5 @@
-# ABOUT G COMPANY
-G Company is setup by a group of Bachelor Computer Science (Artificial Intelligence) students in UTeM. They are passionate and innovative individuals working together to implement AI software and product in the system for daily usage.
+# ABOUT GROUP G SDN BHD
+Group G Sdn Bhd is setup by a group of Bachelor Computer Science (Artificial Intelligence) students in UTeM. They are passionate and innovative individuals working together to implement AI software and product in the system for daily usage.
 
 They are based in Malacca, Malaysia.
 
