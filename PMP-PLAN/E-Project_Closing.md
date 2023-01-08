@@ -3,10 +3,10 @@
 <br>
 
 #### 1. Customer Acceptance Form
-<img src="assets/closing/completion_form.jpg" width="100%">
+<img src="assets/closing/completion_form.jpg" width="80%">
 
 #### 2. Lessons Learned Document
-<img src="assets/closing/lesson_learnt.jpg" width="100%">
+<img src="assets/closing/lesson_learnt.jpg" width="80%">
 
 #### 3. Final Project Report
 
@@ -49,4 +49,4 @@ c. Provide user guidelines for Beautiful Art Sdn Bhd to use the system.
 d. Report information to senior management on monthly basis
 
 #### 4. Close Contract
-<img src="assets/closing/close_contract.jpg" width="100%">
+<img src="assets/closing/close_contract.jpg" width="80%">
