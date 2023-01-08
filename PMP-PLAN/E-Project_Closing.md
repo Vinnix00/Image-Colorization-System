@@ -3,10 +3,10 @@
 <br>
 
 #### 1. Customer Acceptance Form
-<img src="assets/closing/completion_form.jpg" width="80%">
+<img src="assets/closing/completion_form.jpg" width="50%">
 
 #### 2. Lessons Learned Document
-<img src="assets/closing/lesson_learnt.jpg" width="80%">
+<img src="assets/closing/lesson_learnt.jpg" width="50%">
 
 #### 3. Final Project Report
 
@@ -17,9 +17,11 @@
 The Image Colorization System is done by Group G Sdn Bhd was intended to develop an Artificial Intelligence (AI) system that are able to colorize the grayscale image to a colorful image.
 
 **2.0 SUMMARY OF THE PROJET RESULTS**
+
 After the system has been completed, it is able to colorize the grayscale image.
 
 **3.0 ORIGINAL AND ACTUAL BUDGET**
+
 The actual budget matches the original budget, which means that the team has followed the budget planned at the beginning of the project and does not use any excessive money that exceed the budget planned.
 
 **4.0 PROJECT ASSESSMENT**
@@ -49,4 +51,5 @@ c. Provide user guidelines for Beautiful Art Sdn Bhd to use the system.
 d. Report information to senior management on monthly basis
 
 #### 4. Close Contract
+
 <img src="assets/closing/close_contract.jpg" width="80%">
