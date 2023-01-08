@@ -42,7 +42,7 @@ Responsibility:
 
 <img src="assets/tlh.jpeg" width="200" height="auto" />
 
-**TNURSYAZA NISA BINTI ARFARIZAL**
+**NURSYAZA NISA BINTI ARFARIZAL**
 
 Responsiblity:
 1. Make decision on the car plate recognition technology needed
