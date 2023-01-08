@@ -42,7 +42,7 @@ Responsibility:
 
 <img src="assets/syaza.jpeg" width="200" height="auto" />
 
-**TNURSYAZA NISA BINTI ARFARIZAL**
+**NURSYAZA NISA BINTI ARFARIZAL**
 
 Responsiblity:
 1. Make decision on the image colorization technology needed
