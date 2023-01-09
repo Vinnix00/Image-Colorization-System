@@ -40,7 +40,7 @@ Responsibility:
 
 **CHIEF TECHNOLOGY OFFICIAL (CTO)**
 
-<img src="assets/syaza.jpeg" width="200" height="auto" />
+<img src="asset/syaza.jpeg" width="200" height="auto" />
 
 **NURSYAZA NISA BINTI ARFARIZAL**
 
