@@ -12,7 +12,7 @@ We committed to openness and inclusiveness, gathering together outstanding resea
 ## OUR TEAM
 **CHIEF EXECUTIVE OFFICIAL (CEO)**
 
-<img src="assets/soon.jpg" width="200" height="auto" />
+<img src="assets/soonheng.PNG" width="200" height="auto" />
 
 **POH SOON HENG**
 
