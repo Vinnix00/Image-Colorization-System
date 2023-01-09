@@ -2,7 +2,8 @@
 
 ## C. IMPLEMENTING THE PROJECT PLAN
 ### Deliverables:
-Hardware Requirement:
+
+#### Hardware Requirement:
 The hardware requirement to conduct this project consist of intel core i5 and 8GB RAM.
 
 #### Software Requirement:
