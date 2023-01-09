@@ -32,7 +32,6 @@ The main steps to be applied in the Image Colorization System is to perform clas
 #### Microsoft Project:
 <img src="assets/implementation/QTMT Gantt Chart WBS_Page_1.png" width="100%">
 <img src="assets/implementation/QTMT Gantt Chart WBS_Page_2.png" width="100%">
-<img src="assets/implementation/QTMT Gantt Chart WBS_Page_3.png" width="100%">
 
 #### Power Point:
 The flags indicate the milestones of our image colorization project
