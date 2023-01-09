@@ -35,7 +35,7 @@ The main steps to be applied in the Image Colorization System is to perform clas
 <img src="assets/implementation/QTMT Gantt Chart WBS_Page_3.png" width="100%">
 
 #### Power Point:
-The flags indicate the milestones of our car plate recognition project
+The flags indicate the milestones of our image colorization project
 <img src="assets/implementation/Time Management Gantt Chart.png" width="100%">
 
 <br><br><br>
