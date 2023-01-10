@@ -6,8 +6,7 @@
 The project management life cycle is represented and documented in the form of a Gantt Chart, which allows staff to follow guidelines and meet milestones on a regular basis. The project life cycle divides the tasks and work of each member, such as the project manager, into several modules. Based on the Work Breakdown Structure constructed, each member has their own roles and parts in each stage of the lifecycle.
 Work Breakdown Structure is shown in the Gantt Chart below:
 
-
-<insert image>
+<img src="assets/gantt_chart.jpg" width="100%">
 
 The Work Breakdown Structure for the Image Colorization Project is shown below. This work breakdown structure is designed to divide the project's technical components into several modules such as interface design, API management, Image Detection and Colorization System:
 
