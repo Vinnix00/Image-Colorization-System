@@ -1,5 +1,6 @@
 # PROJECT OVERVIEW
 ## E. COMPLETING THE PROJECT
+### Closing Checklist
 <br>
 
 #### 1. Customer Acceptance Form
