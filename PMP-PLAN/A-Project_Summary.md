@@ -10,8 +10,8 @@ While image colorization is a boutique computer graphics task, it is also an ins
 ### Project Name: IMAGE COLORIZATION SYSTEM
 
 ### Team Members: 
-+ POO SOON HENG B032010010
-+ NURSYAZA NISA B032010244
++ POH SOON HENG B032010010
++ NURSYAZA NISA BINTI ARFARIZAL B032010244
 + MUHAMAD A'IMAN TSUBAAQ BIN SHAMSUL KAMAL B032010288
 
 ### Objectives:
