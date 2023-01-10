@@ -12,7 +12,7 @@ The software requirement used for this project in implementing the code for arti
 #### Intelligent System Architecture:
 The proposed neural network is ImageNet, which is a type of convolution neural network (CNN).
 Image-Net architecture:
-<img src="assets/implementation/architecture.png" width="100%">
+<img src="assets/implementation/colorization_release_v2.caffemodel.png" width="100%">
 
 #### Outcomes of the system
 The main steps to be applied in the Image Colorization System is to perform classification, detection and segmentation of the image. Given the input image, we evaluate the colorization quality by training the network on the images from the ImageNet training set. Next, we evaluate the feature representation learned through this kind of cross-channel encoding. In this evaluation, we tested the model using the self-supervision benchmarks on PASCAL classification, detection, and segmentation. 
