@@ -1,4 +1,9 @@
-# Project Execution
+# PROJECT OVERVIEW
+## D. EXECUTING THE PROJECT
+### Project Design and Coding
+Flowchart Design:
+<img src="assets/flowchart.JPG" width="60%">
+
 ## Description of the project coding implementation
 
 Firstly, we will import some useful libraries. The library needed for Image Colorization project are numpy and cv2. NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays. While cv2 is OpenCV-Python which is a library of Python bindings designed to solve computer vision problems.
