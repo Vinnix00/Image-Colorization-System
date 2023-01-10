@@ -1,5 +1,5 @@
 # Image Colorization System
-This is a project that add color to a grayscale input image to produce a colorful result. This project use Atificial Intelligence (AI) technique such as Deep Learning (DL) and COnvolutional Neural Network (CNN).
+This is a project that add color to a grayscale input image to produce a colorful result. This project use Atificial Intelligence (AI) technique such as Deep Learning (DL) and Convolutional Neural Network (CNN).
 
 The project is developed by following Project Management Plan (PMP) to better organized the lifecycle of the project. Several charting techniques such as Gantt Chart, Milestone Chart, Work Breakdown Structure (WBS) is used to manage the project.
 
