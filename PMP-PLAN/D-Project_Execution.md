@@ -2,7 +2,7 @@
 ## D. EXECUTING THE PROJECT
 ### Project Design and Coding
 Flowchart Design:
-<img src="assets/flowchart.JPG" width="60%">
+<img src="assets/flowchart.jpg" width="60%">
 
 ## Description of the project coding implementation
 
