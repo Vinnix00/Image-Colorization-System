@@ -39,3 +39,4 @@ The flags indicate the milestones of our image colorization project
 <img src="assets/implementation/Time Management Gantt Chart.png" width="100%">
 
 <br><br><br>
+##### Next: [Project Execution](D-Project_Execution.md)
