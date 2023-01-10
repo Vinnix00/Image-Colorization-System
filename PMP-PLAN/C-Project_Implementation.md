@@ -7,7 +7,7 @@
 The hardware requirement to conduct this project consist of intel core i5 and 8GB RAM.
 
 #### Software Requirement:
-The software requirement used for this project in implementing the code for artificial intelligence module for image colourization is  a python programming language.
+The software requirement used for this project in implementing the code for artificial intelligence module for image colorization is Python programming language.
 
 #### Intelligent System Architecture:
 The proposed neural network is ImageNet, which is a type of convolution neural network (CNN).
