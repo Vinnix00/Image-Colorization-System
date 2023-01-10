@@ -31,7 +31,7 @@ Grabbing the L channel from the original input and concatenating the original L 
 
 <img src="assets/coding7.jpg" width="100%">
 
-Converting the colorized image from the lab colour space to RGB. Then clipping any pixel intensities that fall outside the range [0,1]. Bringing the pixel intensities back into the range [0,255]. During the preprocessing we divided by 255 and now we aare multiplying by 255. The "uint8" conversion isn't a requirement but it helps the code work between OpenCV 3.4.x and 4.x versions.
+Converting the colorized image from the lab colour space to RGB. Then clipping any pixel intensities that fall outside the range [0,1]. Bringing the pixel intensities back into the range [0,255]. During the preprocessing we divided by 255 and now we are multiplying by 255. The "uint8" conversion isn't a requirement but it helps the code work between OpenCV 3.4.x and 4.x versions.
 
 <img src="assets/coding8.jpg" width="100%">
 
