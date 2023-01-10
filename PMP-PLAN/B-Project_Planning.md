@@ -8,10 +8,6 @@ Work Breakdown Structure is shown in the Gantt Chart below:
 
 <img src="assets/gantt_chart.jpg" width="100%">
 
-The Work Breakdown Structure for the Image Colorization Project is shown below. This work breakdown structure is designed to divide the project's technical components into several modules such as interface design, API management, Image Detection and Colorization System:
-
-<insert image>
-
 ### Scope
 A Work Breakdown Structure (WBS) is created to map out all of the necessary tasks and to develop the process that will be maintained and approved for the WBS.
 
@@ -27,9 +23,9 @@ In this image colorization project, we need to identify the scope of the project
 
 ### Responsibility Assignment Matrices (RAM)
 
-<img src="assets/planning/RAM1.png" width="100%">
+<img src="assets/RAM1.png" width="100%">
 
-<img src="assets/planning/RAM2.png" width="100%"> 
+<img src="assets/RAM2.png" width="100%"> 
 
 |Roles|<div style="width: 150px"> Person In Charge </div>|Responsibilities|
 |:-----:|:------:|------|
