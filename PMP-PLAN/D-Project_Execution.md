@@ -5,7 +5,7 @@ Firstly, we will import some useful libraries. The library needed for Image Colo
 
 <img src="assets/coding1.jpg" width="50%">
 
-Next, for the ease of the project we will use the pre-trained model. We will declare variables and provide the path of the pre-trained model and images. Note that, we use ‘r’ before the path name. This is because backslash is used to signify special characters in Python. Path names on Windows tend to have backslashes in them. But we want them to mean actual backslashes, not special characters. ‘r’ stands for "raw" and will cause backslashes in the string to be interpreted as actual backslashes rather than special characters. That’s why the ‘r’ is used. proto_file is the path to the Caffe prototxt file. model_file is the path to the Caffe pre-trained model. hull_pts is the path to a NumPy cluster center points file. Lastly, the img_path is the path of the input of black and white image.
+Next, for the ease of the project we will use the pre-trained model. We will declare variables and provide the path of the pre-trained model and images. Note that, we use ‘r’ before the path name. This is because backslash is used to signify special characters in Python. Path names on Windows tend to have backslashes in them. But we want them to mean actual backslashes, not special characters. ‘r’ stands for "raw" and will cause backslashes in the string to be interpreted as actual backslashes rather than special characters. That’s why the ‘r’ is used. proto_file is the path to the Caffe prototxt file. model_file is the path to the Caffe pre-trained model. hull_pts is the path to a NumPy cluster center points file. Lastly, the img_path is the path of the grayscale input image.
 
 <img src="assets/coding2.jpg" width="100%">
 
