@@ -17,7 +17,7 @@ While image colorization is a boutique computer graphics task, it is also an ins
 ### Objectives:
 + To develop an artificial intelligence system that are able to colorize grayscale image.
 + To develop a system that are easy and suitable to use by everyone.
-+ To develop a system that can make the colorized image looks the same as actual.
++ To develop a system that can make the colorized image visually accepted.
 
 <br><br><br>
 ##### Next: [Project Planning](B-Project_Planning.md)
