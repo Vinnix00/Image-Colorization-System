@@ -27,11 +27,11 @@ We'll go ahead and resize the input image to 224x224, the required input dimensi
 
 A forward pass of the L channel through the network takes place. Note that after net.forward, on the same line, we went ahead and extracted the predicted ab volume. From there, we resize the predicted ab volume to be the same dimensions as our input image. 
 
-Grabbing the L channel from the original input and concatenating the original L channel and predicted ab channels together forming colorised.
+Grabbing the L channel from the original input and concatenating the original L channel and predicted ab channels together forming colorized.
 
 <img src="assets/coding7.jpg" width="100%">
 
-Converting the colorised image from the lab colour space to RGB. Then clipping any pixel intensities that fall outside the range [0,1]. Bringing the pixel intensities back into the range [0,255]. During the preprocessing we divided by 255 and now we aare multiplying by 255. The "uint8" conversion isn't a requirement but it helps the code work between OpenCV 3.4.x and 4.x versions.
+Converting the colorized image from the lab colour space to RGB. Then clipping any pixel intensities that fall outside the range [0,1]. Bringing the pixel intensities back into the range [0,255]. During the preprocessing we divided by 255 and now we aare multiplying by 255. The "uint8" conversion isn't a requirement but it helps the code work between OpenCV 3.4.x and 4.x versions.
 
 <img src="assets/coding8.jpg" width="100%">
 
