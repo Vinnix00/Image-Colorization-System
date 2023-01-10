@@ -20,4 +20,4 @@ While image colorization is a boutique computer graphics task, it is also an ins
 + To develop a system that can make the colorized image looks the same as actual.
 
 <br><br><br>
-##### Next: [Project Planning](B-PROJECT_PLANNING.md)
+##### Next: [Project Planning](B-Project_Planning.md)
