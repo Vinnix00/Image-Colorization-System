@@ -1,7 +1,9 @@
 # PROJECT OVERVIEW
 ## D. EXECUTING THE PROJECT
 ### Project Design and Coding
+
 Flowchart Design:
+
 <img src="assets/flowchart.jpg" width="60%">
 
 ## Description of the project coding implementation
