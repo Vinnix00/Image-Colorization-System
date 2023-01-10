@@ -15,9 +15,9 @@ While image colorization is a boutique computer graphics task, it is also an ins
 + MUHAMAD A'IMAN TSUBAAQ BIN SHAMSUL KAMAL B032010288
 
 ### Objectives:
-+ To develop an easy way to colorize images
-+ To develop a system that are able to recognize type of given image.
-+ To develop an application programming interface (API) for the future ease of use as an integration module
++ To develop an artificial intelligence system that are able to colorize grayscale image.
++ To develop a system that are easy and suitable to use by everyone.
++ To develop a system that can make the colorized image looks the same as actual.
 
 <br><br><br>
 ##### Next: [Project Planning](B-PROJECT_PLANNING.md)
