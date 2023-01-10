@@ -14,7 +14,7 @@ The Work Breakdown Structure for the Image Colorization Project is shown below. 
 <insert image>
 
 ### Scope
-A work breakdown structure (WBS) is created to map out all of the necessary tasks and to develop the process that will be maintained and approved for the WBS.
+A Work Breakdown Structure (WBS) is created to map out all of the necessary tasks and to develop the process that will be maintained and approved for the WBS.
 
 In this image colorization project, we need to identify the scope of the project. For instance, the project will not accept car plate number that are unique as it does not follow the government rules. For example, the car plate number is reflecting to lights and car plate number with special fonts will not be acceptable. Besides, this project scope down the limit of the project by only detect alphabet and number character. Therefore, country such as Japan and Thailand might not be able to use this system.
 
